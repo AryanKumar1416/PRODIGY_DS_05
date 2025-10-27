@@ -1,0 +1,18 @@
+# Core Libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter (optional, if using notebooks)
+jupyter
+notebook
+
+# Data Cleaning & Preprocessing
+scikit-learn
+
+# Optional: Geospatial or Extended Analysis
+geopandas
+plotly
